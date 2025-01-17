@@ -1,0 +1,11 @@
+{
+    "featuresPath": "Features",
+    "testFramework": "xUnit",
+    "bindings": [
+      {
+      "service": "OpenQA.Selenium.IWebDriver",
+      "implementation": "OpenQA.Selenium.Chrome.ChromeDriver"
+      }
+    ]
+}
+  
